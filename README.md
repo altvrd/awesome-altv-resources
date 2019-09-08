@@ -6,7 +6,7 @@ The resources below can be installed by [altvrd](https://github.com/altvrd/cli).
 
 #### Gamemodes
 
-*
+* [team-stuyk-alt-v/altV-Open-Roleplay](https://github.com/team-stuyk-alt-v/altV-Open-Roleplay)
 
 #### Interface
 
